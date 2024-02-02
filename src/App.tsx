@@ -14,8 +14,6 @@ const App: React.FC = () => {
   return (
     <div>
       <GlobalStyle/>
-      <Slider/>
-      {/* <Node /> */}
     </div>
   );
 };

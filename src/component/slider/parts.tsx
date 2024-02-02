@@ -4,6 +4,7 @@ import styled from "styled-components";
 
 export const Slider = styled.div`
   position: relative;
+  overflow: hidden;
   border: solid black 2px;
   height: 98vh;
   display: flex;
